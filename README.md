@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](/./stats-card-web/images/scrnli_6_1_2023_5-50-12%20PM.png)
+![](/images/scrnli_6_1_2023_5-50-12%20PM.png)
 
 
 ### Links
