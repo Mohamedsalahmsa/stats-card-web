@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution Title: (perfume-Card-Store With flex-Box)
-- Live Site URL:(https://mohamedsalahmsa.github.io/perfume_store/)
+- Solution Title: (stats-card-web with flexBox)
+- Live Site URL:(https://mohamedsalahmsa.github.io/stats-card-web/)
 
 ### Built with Mohamed Salah
 
